@@ -338,7 +338,8 @@
         "EnumValues": {
             "Peaceful": "Peaceful",
             "Normal": "Normal",
-            "Hard": "Hard"
+            "Hard": "Hard",
+            "HardSurvival": "HardSurvival"
         }
     },
     {
